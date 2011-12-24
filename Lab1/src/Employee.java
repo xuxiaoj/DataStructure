@@ -5,7 +5,7 @@ public class Employee {
 		84, 43, 54, 6, 79,
 		76, 30, 20, 44, 47,
 		50, 11, 16, 4, 69,
-		4, 98, 41, 95, 46,
+		4, 98, 41, 95, 47,
 	};
 	
 	private static int idx;	
@@ -44,3 +44,4 @@ public class Employee {
 		return id + ":[" + name + ", " + age + "]";	
 	}
 }
+
